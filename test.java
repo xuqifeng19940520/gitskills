@@ -1,5 +1,5 @@
 public class test{
   public void test(){
-    System.out.plantln("-----");
+    System.out.plantln("----111-");
   }
 }
